@@ -1,6 +1,16 @@
 // API endpoint for AI tools data
 const aiTools = [
   {
+    id: 6,
+    name: "Auferet",
+    description: "AI game master for solo text adventures and tabletop RPGs that remembers your story and reads your uploaded lore.",
+    category: "Creative",
+    pricing: "Freemium",
+    features: ["Long-term story memory", "Upload your own lore", "5e and Pathfinder 2e dice rules"],
+    website: "https://auferet.com",
+    rating: 4.5
+  },
+  {
     id: 1,
     name: "ChatGPT",
     description: "Advanced conversational AI for various tasks",
